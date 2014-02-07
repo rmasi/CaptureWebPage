@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptureWebPage", "CaptureWebPage\CaptureWebPage.csproj", "{A991050D-5E53-45AD-BC6C-07BFD4943686}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A991050D-5E53-45AD-BC6C-07BFD4943686}.Debug|x86.ActiveCfg = Debug|x86
+		{A991050D-5E53-45AD-BC6C-07BFD4943686}.Debug|x86.Build.0 = Debug|x86
+		{A991050D-5E53-45AD-BC6C-07BFD4943686}.Release|x86.ActiveCfg = Release|x86
+		{A991050D-5E53-45AD-BC6C-07BFD4943686}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
